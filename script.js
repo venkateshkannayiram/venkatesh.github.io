@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Data Engineer", "WebGIS Developer", "Unity Developer", "BIM Modeler"],
+        strings: ["Data Engineer with Big Data and AWS", "WebGIS Developer", "Unity Developer", "BIM Modeler"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
