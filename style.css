@@ -274,6 +274,7 @@ section .title::after{
 }
 .services .title::after{
     background: #111;
+    width: 400px;
     content: "My Career Journey";
 }
 .services .serv-content .card{
