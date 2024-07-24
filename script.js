@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Data Engineer with Big Data and AWS", "WebGIS Developer", "Unity Developer", "BIM Modeler"],
+        strings: ["GIS Specialist", "WebGIS Developer", "BIM Modeler", "Unity Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Data Engineer", "WebGIS Developer", "Unity Developer", "BIM Modeler"],
+        strings: ["GIS Specialist", "WebGIS Developer", "BIM Modeler", "Unity Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
